@@ -1,0 +1,6 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.eclipse.org/jetty/configure.dtd" location="$USER_HOME$/Library/Caches/IntelliJIdea2018.3/extResources/e9fa6b60_configure.dtd" />
+    <resource url="http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.5.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2018.3/extResources/32e969bc_dbchangelog-3.5.xsd" />
+  </component>
+</application>
