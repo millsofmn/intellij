@@ -22,6 +22,10 @@
           <option name="url" value="http://roealm002w:8080/tfs/MayoClinic/LPEA/_git/LPEA_CAD_Newt" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://tfs.mayo.edu" />
+          <option name="userName" value="m108491" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
