@@ -28,10 +28,14 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://dev.azure.com" />
-          <option name="userName" value="miller.lyle" />
+          <option name="userName" value="mclm" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://miller.lyle@dev.azure.com/mclm/GBS%20CAD/_git/NGS_Newt" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://mclm@dev.azure.com/mclm/GBS%20CAD/_git/NGS_Newt" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
