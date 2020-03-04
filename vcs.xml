@@ -26,6 +26,14 @@
           <option name="url" value="http://tfs.mayo.edu" />
           <option name="userName" value="m108491" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://dev.azure.com" />
+          <option name="userName" value="miller.lyle" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://miller.lyle@dev.azure.com/mclm/GBS%20CAD/_git/NGS_Newt" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
