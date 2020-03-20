@@ -42,6 +42,10 @@
           <option name="url" value="https://mclm@dev.azure.com/mclm/GBS%20CAD/_git/NGS_Workbench" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://mclm@dev.azure.com/mclm/GBS%20CAD/_git/LPEA_GBS_WorkbenchCommonApi" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
