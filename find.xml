@@ -6,7 +6,6 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
-    <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
@@ -16,5 +15,6 @@
     <mask>*.jsp</mask>
     <mask>*.sql</mask>
     <mask>*.java</mask>
+    <mask>*.html</mask>
   </component>
 </application>
