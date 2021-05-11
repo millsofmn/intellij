@@ -58,6 +58,10 @@
           <option name="url" value="https://github.com/millsofmn/jhipster-ad-azure.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://mclm@dev.azure.com/mclm/GBS%20CAD/_git/LPEA_SIA_GENERATED" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/git" />
